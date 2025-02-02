@@ -21,10 +21,10 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:devanshindoriya@gmail.com">
+  <a href="mailto:karansainnn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/devansh-indoriya-6555a1229/" target="_blank">
+  <a href="https://www.linkedin.com/in/karan-sain-087536204?" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://somethingaboutme.vercel.app/" target="_blank">
