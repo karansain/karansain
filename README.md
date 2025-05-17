@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/karan-sain-087536204?" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://somethingaboutme.vercel.app/" target="_blank">
+  <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -38,8 +38,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,flutter,html,css,vscode,github,figma,tailwind,git,spring boot" />
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,docker,dart,firebase,linux,django,mongodb,nextjs,mysql,arch" />
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,ubuntu,kali,xd,ps,ai,ae" /><br>
+    <img src="https://skillicons.dev/icons?i=java,javascript,dart,firebase,nextjs,mysql" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,xd,ps,ai,ae" /><br>
 </div>
 
 <br/>
@@ -48,7 +48,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/evansh28/evansh28/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/karansain/karansain/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -58,11 +58,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evansh28&theme=react&border_radius=10" alt="evansh28" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karansain&theme=react&border_radius=10" alt="karansain" />
     <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=evansh28&show_icons=true&locale=en&theme=react&border_radius=10&rank_icon=github" alt="evansh28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karansain&show_icons=true&locale=en&theme=react&border_radius=10&rank_icon=github" alt="karansain" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evansh28&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="evansh28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karansain&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="karansain" />
 </div>
 
 <br/><br/>
